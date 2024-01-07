@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m @Deepak Sharma currently working as a Software Engineer<br>👀 I’m intrested in developing full stack projects specifically from scratch<br>💞️ I’m looking to collaborate with various amazing technophiles out there just to get my hands dirty with intresting technical stuff<br>🌱 I'm currently learning MERN stack <br>☑️ Although I'm not an expert but  still you can ask me about Java spring and spring boot anytime.
+👋  Hi, I'm @Deepak Sharma, a Software Engineer with a passion for developing full-stack projects from scratch.
+
+🚀 Currently, I'm diving into the MERN stack, exploring the latest technologies and enhancing my skills.
+
+💻 Open to collaborations with fellow technophiles! Let's work on interesting projects together and share knowledge.
+
+🌱 I'm on a continuous learning journey, and though I may not be an expert, feel free to reach out for discussions on Java Spring and Spring Boot anytime.
+
+🌟 Looking forward to connecting and building amazing things together! 
 
 
 ## 🌐 Socials:
