@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  Hi, I'm @Deepak Sharma, a Software Engineer with a passion for developing full-stack projects from scratch.
+👋  Hi, I'm Deepak Sharma, a Software Engineer with a passion for developing full-stack projects from scratch.
 
 🚀 Currently, I'm diving into the MERN stack, exploring the latest technologies and enhancing my skills.
 
