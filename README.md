@@ -28,10 +28,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deepak00-Sh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 😂 Let me make you laugh
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepak00-Sh&icon=0&color=0)](https://visitcount.itsvg.in)
 
