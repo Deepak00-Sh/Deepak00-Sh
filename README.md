@@ -33,6 +33,9 @@
 
 ## DataBases
 
+| MySQL | Oracle | InfluxDb | Redis |
+|:------:|:-----:|:-----:|:-----:|
+|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| ![Oracle](https://img.shields.io/badge/oracle-%2000f.svg?style=for-the-badge&logo=oracle&logoColor=red) | ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)|
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
