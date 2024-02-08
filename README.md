@@ -5,7 +5,7 @@
 
 💻 Open to collaborations with fellow technophiles.
 
-🌱 I may not be an expert, feel free to reach out for discussions on Java Spring and Spring Boot anytime.
+🌱 I may not be an expert but feel free to reach out for discussions on Java Spring and Spring Boot anytime.
 
 <br>
 
