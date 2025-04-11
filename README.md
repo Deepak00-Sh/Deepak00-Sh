@@ -1,5 +1,5 @@
 # 🌅 About Me
-👋  Hi, I'm Deepak Sharma(22), a Full Stack Engineer.
+👋  Hi, I'm Deepak Sharma(24), a Full Stack Engineer.
 
 🚀 Currently, I'm diving into the MERN stack, exploring the latest technologies and enhancing my skills.
 
